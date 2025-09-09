@@ -20,3 +20,15 @@
             <li>Frontend: React / Next.js</li>
             <li>Authentication: OAuth 2.0</li>
         </ul>
+
+### 📦 Installation
+```bash
+git clone https://github.com/your-username/linkedin-ai-post-creator.git
+cd linkedin-ai-post-creator
+pip install -r requirements.txt
+```
+
+### 🚀 Usage
+```bash
+python main.py
+```
