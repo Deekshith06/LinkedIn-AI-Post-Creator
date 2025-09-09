@@ -20,15 +20,39 @@
             <li>Frontend: React / Next.js</li>
             <li>Authentication: OAuth 2.0</li>
         </ul>
+      <h3>src/App.txt(main file)</h3>
 
 ### 📦 Installation
 ```bash
-git clone https://github.com/your-username/linkedin-ai-post-creator.git
+https://github.com/Deekshith06/LinkedIn-AI-Post-Creator.git
 cd linkedin-ai-post-creator
-pip install -r requirements.txt
+```
+```bash
+npm install
+```
+```bash
+npm cache clean --force
+```
+```bash
+npm audit fix
+```
+```bash
+npm audit
 ```
 
 ### 🚀 Usage
 ```bash
-python main.py
+npm run dev
 ```
+<ul>
+    <li>Enter your <b>ideas or keywords</b>.</li>
+    <li>Get a <b>ready-to-post LinkedIn update</b> in seconds.</li>
+</ul>
+
+<h2>🌸 Future Enhancements</h2>
+<ul>
+    <li>Direct LinkedIn post scheduling via API</li>
+    <li>Analytics on post engagement</li>
+    <li>Voice input for content ideas</li>
+    <li>Browser extension for quick access</li>
+</ul>
